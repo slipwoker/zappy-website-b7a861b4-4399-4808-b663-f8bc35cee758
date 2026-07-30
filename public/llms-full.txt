@@ -2,13 +2,13 @@
 
 Ace Car (אייס קאר) is an Israeli company specializing in fleet management, outsourcing, and road safety officer services for businesses of all sizes — from startups and high-tech companies to large organizations. The company positions itself as a professional B2B partner that handles the full lifecycle of corporate vehicle fleet management, including regulatory compliance, safety consulting, and ongoing maintenance coordination. Their brand conveys reliability, expertise, and operational efficiency in the transportation and fleet sector.
 
-Source: https://-b7a861b4.zappy5.app
+Source: https://example.com
 
 ---
 
 ## מנהלים צי רכב? קבלו קצין בטיחות מקצועי עוד היום — אייס קאר
 
-URL: https://-b7a861b4.zappy5.app
+URL: https://example.com
 Description: אייס קאר מספקת שירותי קצין בטיחות בתעבורה במיקור חוץ וניהול ציי רכב מקיף לחברות הייטק, סטארטאפים וארגונים. הפקידו את הצי בידיים מקצועיות וגלו שקט נפשי תפעולי.
 
 מנהלים צי רכב? קבלו קצין בטיחות מקצועי עוד היום — אייס קאר
@@ -675,7 +675,7 @@ Description: אייס קאר מספקת שירותי קצין בטיחות בת�
 
 ## מדיניות פרטיות
 
-URL: https://-b7a861b4.zappy5.app/privacy
+URL: https://example.com/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -916,7 +916,7 @@ Description: מדיניות הפרטיות שלנו - כיצד אנו אוספי
 
 ## הצהרת נגישות
 
-URL: https://-b7a861b4.zappy5.app/accessibility
+URL: https://example.com/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -1166,7 +1166,7 @@ Description: הצהרת הנגישות שלנו - מחויבותנו לנגיש�
 
 ## תנאי שימוש
 
-URL: https://-b7a861b4.zappy5.app/terms
+URL: https://example.com/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש
@@ -1435,7 +1435,7 @@ Description: תנאי השימוש באתר - הזכויות והחובות של
 
 ## תודה שפניתם אלינו | אייס קאר
 
-URL: https://-b7a861b4.zappy5.app/thank-you
+URL: https://example.com/thank-you
 Description: אייס קאר - תודה שפניתם אלינו | אייס קאר
 
 תודה שפניתם אלינו | אייס קאר

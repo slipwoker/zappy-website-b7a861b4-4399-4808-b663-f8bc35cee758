@@ -1,0 +1,71 @@
+# אייס קאר — Generative Engine Optimization Map
+
+> Ace Car (אייס קאר) is an Israeli company specializing in fleet management, outsourcing, and road safety officer services for businesses of all sizes — from startups and high-tech companies to large organizations. The company positions itself as a professional B2B partner that handles the full lifecycle of corporate vehicle fleet management, including regulatory compliance, safety consulting, and ongoing maintenance coordination. Their brand conveys reliability, expertise, and operational efficiency in the transportation and fleet sector.
+
+---
+
+## Pages
+
+### בית
+https://-b7a861b4.zappy5.app
+אייס קאר מספקת שירותי קצין בטיחות בתעבורה במיקור חוץ וניהול ציי רכב מקיף לחברות הייטק, סטארטאפים וארגונים. הפקידו את הצי בידיים מקצועיות וגלו שקט נפשי תפעולי.
+
+### תודה שפניתם אלינו | אייס קאר
+https://-b7a861b4.zappy5.app/thank-you
+אייס קאר - תודה שפניתם אלינו | אייס קאר
+
+## Legal & Policy
+
+### Privacy Policy
+https://-b7a861b4.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-b7a861b4.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-b7a861b4.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://-b7a861b4.zappy5.app
+- Endpoint: https://-b7a861b4.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text)
+  - `email` (email)
+  - `phone` (tel)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About אייס קאר
+Ace Car (אייס קאר) is an Israeli company specializing in fleet management, outsourcing, and road safety officer services for businesses of all sizes — from startups and high-tech companies to large organizations. The company positions itself as a professional B2B partner that handles the full lifecycle of corporate vehicle fleet management, including regulatory compliance, safety consulting, and ongoing maintenance coordination. Their brand conveys reliability, expertise, and operational efficiency in the transportation and fleet sector.
+
+## Target Audience
+- חברות הייטק, ארגונים ועסקים בכל הגדלים
+- חברות הייטק
+- ארגונים עם ציי רכב
+- חברות לוגיסטיקה
+
+## Industry
+Fleet Management & Transportation Safety
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-b7a861b4.zappy5.app/sitemap.xml
+- Robots: https://-b7a861b4.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-b7a861b4.zappy5.app/llms-full.txt
